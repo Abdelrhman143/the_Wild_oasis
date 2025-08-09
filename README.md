@@ -10,7 +10,7 @@ Built with **React**, **Styled Components**, **React Query**, and **Supabase**.
 
 ## 🚀 Live Demo
 
-[View Dashboard on Vercel](https://your-vercel-dashboard-link.vercel.app)
+[View Dashboard on netlify](wild-oasis-das.netlify.app)
 
 ---
 
@@ -33,7 +33,7 @@ Built with **React**, **Styled Components**, **React Query**, and **Supabase**.
 - **React Query** – State and server data management.
 - **Supabase** – Backend-as-a-Service for authentication and database.
 - **Recharts** – Data visualization with charts.
-- **Vercel** – Deployment and hosting.
+- **netlify** – Deployment and hosting.
 
 ---
 
