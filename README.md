@@ -1,12 +1,47 @@
-# React + Vite
+# 📊 Wild Oasis Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Wild Oasis Dashboard** is an admin panel for managing cabin bookings, reservations, and website settings.  
+It provides full **CRUD operations** for cabins and reservations, user authentication with protected routes, and data visualization using charts.  
+Built with **React**, **Styled Components**, **React Query**, and **Supabase**.
 
-Currently, two official plugins are available:
+# the porject is not mobile friendly so be ware as this project main perpose is to learn React and React query
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[View Dashboard on Vercel](https://your-vercel-dashboard-link.vercel.app)
+
+---
+
+## 📜 Features
+
+- **Cabin Management** – Create, Read, Update, Delete cabins with images and details.
+- **Reservation Management** – Manage all bookings with full CRUD support.
+- **Website Settings** – Update pricing, policies, and other configurations.
+- **Authentication** – Secure login system powered by Supabase.
+- **Protected Routes** – Only authenticated users can access the dashboard.
+- **Data Visualization** – Interactive charts using Recharts.
+- **Responsive UI** – Styled Components for a clean, modern look.
+
+---
+
+## 🛠 Technologies Used
+
+- **React** – Frontend library for building the UI.
+- **Styled Components** – CSS-in-JS for component-level styling.
+- **React Query** – State and server data management.
+- **Supabase** – Backend-as-a-Service for authentication and database.
+- **Recharts** – Data visualization with charts.
+- **Vercel** – Deployment and hosting.
+
+---
+
+## 📦 Installation Guide
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone Repo URL
+cd wild-oasis-dashboard
+```
